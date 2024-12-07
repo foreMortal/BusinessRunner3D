@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7849676db28dfb45b4281154a5e6c0c, type: 3}
+  m_Name: DoorsNDollars
+  m_EditorClassIdentifier: 
+  dollars:
+  - {fileID: 617366681806257819, guid: bcc517cf71628d347b61d461dc86230f, type: 3}
+  - {fileID: 7249985448647765259, guid: 85d5e85c6b20bb7429b83c84bbec4e2c, type: 3}
+  - {fileID: 3721260351576704885, guid: a397b9de79ebe16439c7eca166598753, type: 3}
+  - {fileID: 809617583856789443, guid: 89da24d4a6f744f41803ddf54bcd9066, type: 3}
+  - {fileID: 7854537844660464215, guid: df15448351c32b5469b1721ca5e1ea3a, type: 3}
+  - {fileID: 88684295718638536, guid: 5c1101f41363c844680620c05ce20756, type: 3}
+  - {fileID: 9048710110443729855, guid: ada97acc7052c0f4083a17493fb5601e, type: 3}
+  - {fileID: 6156192943543589908, guid: 408ecb6c102745042931049f8b7939de, type: 3}
+  - {fileID: 1230387768087038041, guid: 520c4483c998f6f4f9a3e7dadc499af3, type: 3}
+  - {fileID: 3763853093474733334, guid: 66a18333d46c15848af8323ba316e117, type: 3}
+  doors:
+  - {fileID: 889243792555486200, guid: bbf43fd866d4e1646a432a0c5841257b, type: 3}
+  - {fileID: 7232338192498107554, guid: 75be20201fbcd5547b0e8b6ae16db912, type: 3}
+  - {fileID: 3544047411249682009, guid: 325e0945fe645464980f65aba32ea4bc, type: 3}
+  - {fileID: 2435874383952587932, guid: 377010bf471ac404f847afad5e71fbcd, type: 3}

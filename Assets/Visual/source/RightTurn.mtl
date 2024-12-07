@@ -1,0 +1,8 @@
+newmtl sand_1
+map_Pm C:/Projects/TechZadanie/TechZadanie/Assets/Visual/source/textures/TexturePlane_FineSand01_Metallic.png
+bump C:/Projects/TechZadanie/TechZadanie/Assets/Visual/source/textures/TexturePlane_FineSand01_Normal.png
+disp C:/Projects/TechZadanie/TechZadanie/Assets/Visual/source/textures/TexturePlane_FineSand01_Height.png
+map_Kd C:/Projects/TechZadanie/TechZadanie/Assets/Visual/source/textures/TexturePlane_FineSand01_BaseColor.png
+Kd 1 1 1
+d 1
+
